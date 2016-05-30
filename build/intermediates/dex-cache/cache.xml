@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="3acf380d064dc2e843461f66f87175aa960fb786">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_265e3300e63991089a2c63775ef9626f71f01361/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_f5f3064eaa42125cf0f01d443a0aa3159246013d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="757a34f5d84a6b77a2bd0ba1affbcd2145329096">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha2_ceaae5e63e6d0322a14908bc7c4f2a460fa79e5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha2/constraint-layout-solver-1.0.0-alpha2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d5b32a2a1529a72472729ee5c94779d0ce9951eb">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha2_13379a15b4355af7689b99e030f5271209da85ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_f9cc6ee6b13e28f7c403fb031c21ab1d399d76d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_46f72ecb8d9fbbfcabf98697de7b0b1febec1f8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Home/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_297201c0ed6185bed1653b091372088980695f9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_0cf92a078f5e525eeade75e07204004d64ec8d56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="51eedac120fe1267145405b41145b54b9dc461ed">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_acdab4da4fc81a3f8878bbe00ade478ac11ef117/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_aece34b04f9dcdd1bad0e93e6b054000eb30fb94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Home/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Home/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_583ca1daba6b8b1a4259cd61fbdfad8de6a0aa04/classes.dex" />
+    </item>
+
+</items>
